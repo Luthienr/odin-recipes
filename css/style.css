@@ -41,3 +41,12 @@ body {
     color: darkgreen;
 }
 
+.tableClass {
+    margin: 10px auto;
+    width: 355px;
+}
+
+ul {
+    text-align: center;
+    list-style: inside;
+}
