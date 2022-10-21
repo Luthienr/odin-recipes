@@ -1,0 +1,43 @@
+body {
+    background-color: #943126 ;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+}
+
+.dotted {
+    border-style: dotted;
+    border-spacing: 15px;
+    border-width: 5px;
+    height: 200px;
+    width: 750px;
+    padding: 10px;
+    position: relative;
+    left: 560px;
+}
+
+.dotted p {
+    font-size: 20px;
+}
+
+.recipes {
+    border: solid;
+    width: 400px;
+    margin: 25px auto;
+}
+
+.listStyle {
+    font-size: 25px;
+    left: -15px;
+    list-style: none;
+    position: relative;
+}
+
+.listStyle a {
+    color: #48C9B0;
+    text-decoration: none;
+}
+
+.listStyle a:hover {
+    color: darkgreen;
+}
+
